@@ -1,9 +1,7 @@
 // src/components/Product.jsx
 
 const Product = () => {
-  const price = 999;
-  const imgUrl =
-    "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?dpr=2&h=480&w=640";
+  "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?dpr=2&h=480&w=640";
   return (
     <div>
       <h1>Best selling</h1>
